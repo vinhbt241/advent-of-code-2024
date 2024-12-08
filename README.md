@@ -29,7 +29,7 @@ Each puzzle's solution is implemented in the corresponding day folder, e.g., `da
 3. A brief explanation of the approach, if applicable.
 
 ### Languages and Tools
-I’ll be primarily using **Ruby**, but I might explore others as part of the learning process.
+I'll be primarily using **Ruby**, but I might explore others as part of the learning process.
 
 ## How to Run the Code
 1. Clone this repository:
@@ -53,6 +53,7 @@ I’ll be primarily using **Ruby**, but I might explore others as part of the le
 | 5   | 🎁 [Print Queue](https://adventofcode.com/2024/day/5) | ✅ Updated ||
 | 6   | 🎁 [Guard Gallivant](https://adventofcode.com/2024/day/6) | ✅ Updated |Cycle dectection function is not working correctly|
 | 7   | 🎁 [Bridge Repair](https://adventofcode.com/2024/day/7) | ✅ Updated ||
+| 8   | 🎁 [Resonant Collinearity](https://adventofcode.com/2024/day/8) | ✅ Updated ||
 
 
 ## Contributing
