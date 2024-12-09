@@ -54,6 +54,7 @@ I'll be primarily using **Ruby**, but I might explore others as part of the lear
 | 6   | 🎁 [Guard Gallivant](https://adventofcode.com/2024/day/6) | ✅ Updated |Cycle dectection function is not working correctly|
 | 7   | 🎁 [Bridge Repair](https://adventofcode.com/2024/day/7) | ✅ Updated ||
 | 8   | 🎁 [Resonant Collinearity](https://adventofcode.com/2024/day/8) | ✅ Updated ||
+| 9   | 🎁 [Disk Fragmenter](https://adventofcode.com/2024/day/9) | ✅ Updated | Solution 2 can be improved using binary search |
 
 
 ## Contributing
