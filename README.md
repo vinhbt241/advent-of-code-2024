@@ -55,6 +55,7 @@ I'll be primarily using **Ruby**, but I might explore others as part of the lear
 | 7   | 🎁 [Bridge Repair](https://adventofcode.com/2024/day/7) | ✅ Updated ||
 | 8   | 🎁 [Resonant Collinearity](https://adventofcode.com/2024/day/8) | ✅ Updated ||
 | 9   | 🎁 [Disk Fragmenter](https://adventofcode.com/2024/day/9) | ✅ Updated | Solution 2 can be improved using binary search |
+| 10   | 🎁 [Hoof It](https://adventofcode.com/2024/day/10) | ✅ Updated | Solution 1 require one track for one destination, hence we have to remember traveled path|
 
 
 ## Contributing
