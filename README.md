@@ -59,6 +59,7 @@ I'll be primarily using **Ruby**, but I might explore others as part of the lear
 | 11   | 🎁 [Plutonian Pebbles](https://adventofcode.com/2024/day/11) | ✅ Updated | Use hash to keep track the total count of each number in current line|
 | 12   | 🎁 [Garden Groups](https://adventofcode.com/2024/day/12) | ✅ Updated | Count side by corner, one corner mean one side |
 | 13   | 🎁 [Claw Contraption](https://adventofcode.com/2024/day/13) | ✅ Updated | Basic Math is the way! |
+| 14   | 🎁 [Restroom Redoubt](https://adventofcode.com/2024/day/14) | ✅ Updated ||
 
 ## Contributing
 This is a personal project, but feel free to explore, raise issues, or suggest alternative solutions!
