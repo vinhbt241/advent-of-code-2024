@@ -61,6 +61,7 @@ I'll be primarily using **Ruby**, but I might explore others as part of the lear
 | 13   | 🎁 [Claw Contraption](https://adventofcode.com/2024/day/13) | ✅ Updated | Basic Math is the way! |
 | 14   | 🎁 [Restroom Redoubt](https://adventofcode.com/2024/day/14) | ✅ Updated ||
 | 15   | 🎁 [Warehouse Woes](https://adventofcode.com/2024/day/15) | ✅ Updated |Part 2 is unfinished (however you can checkout the solution!)|
+| 16   | 🎁 [Reindeer Maze](https://adventofcode.com/2024/day/16) | ❌ Unfinished | Use Djiktra algorithm! |
 
 ## Contributing
 This is a personal project, but feel free to explore, raise issues, or suggest alternative solutions!
